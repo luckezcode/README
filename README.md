@@ -3,10 +3,10 @@
 
 ****
 
-## Sintaxe
+## Objetivo
 
 
-## TO-DO
+## Skills
 
 - [ ] 
 - [ ] 
